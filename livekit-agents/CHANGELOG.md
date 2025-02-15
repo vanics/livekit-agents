@@ -1,5 +1,13 @@
 # livekit-agents
 
+## 0.12.14
+
+### Patch Changes
+
+- improve exception logging - [#1490](https://github.com/livekit/agents/pull/1490) ([@jayeshp19](https://github.com/jayeshp19))
+
+- fix interrupting nested speech from before_llm_cb - [#1504](https://github.com/livekit/agents/pull/1504) ([@longcw](https://github.com/longcw))
+
 ## 0.12.13
 
 ### Patch Changes
